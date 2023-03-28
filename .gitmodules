@@ -1,0 +1,6 @@
+[submodule "starship"]
+	path = starship
+	url = git@github.com:DaAlbrecht/starship.git
+[submodule "nvim"]
+	path = nvim
+	url = git@github.com:DaAlbrecht/nvim.git
